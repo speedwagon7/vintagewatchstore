@@ -1,0 +1,22 @@
+# Maven/Java
+/backend/target/
+/backend/*.iml
+/backend/.idea/
+/backend/.classpath
+/backend/.project
+
+# Node/React
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
+/frontend/.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
